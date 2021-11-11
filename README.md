@@ -1,4 +1,4 @@
-# Build an LMS
+# Build your own LMS
 
 
 ##### Step 1: Create an angular project

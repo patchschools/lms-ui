@@ -23,6 +23,11 @@ code .
 ng serve
 ```
 
+* Replace app.component.html contents to
+```
+<router-outlet></router-outlet>
+```
+
 ##### Step 2: Install Theme 
 ```
 ng add @nareshkumarh/kt-theme
